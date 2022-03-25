@@ -3,10 +3,7 @@ click==7.1.2
 colorama==0.4.3
 dj-database-url==0.5.0
 dj-static==0.0.6
-Django==2.0.7
-django-bootstrap3==10.0.1
 dnspython==2.0.0
-email-validator==1.1.1
 Flask==1.1.2
 Flask-Cors==3.0.10
 Flask-Mail==0.9.1
